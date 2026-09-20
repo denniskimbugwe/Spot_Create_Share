@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<bwFrame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" default_layout="npnxabnsnfns00011110101" textdirection="ltr" textengine="DirectWrite" device="false" fontscale="100" captionFontScale="100" kbshortcuts="false" skip_nav_enabled="true" chromeless="false" preventUpscale="true" outputtype="undefined" theme="unified" themeAccentColor="0x4F81BD">
+<bwFrame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" default_layout="npnxabnsnfns00011110111" textdirection="ltr" textengine="DirectWrite" device="false" fontscale="100" captionFontScale="100" kbshortcuts="false" skip_nav_enabled="true" chromeless="false" preventUpscale="true" outputtype="undefined" theme="unified" themeAccentColor="0xE57A44">
   <layouts>
-    <layout name="npnxnanbsnfns00011110101" font="Lato" controllayout="npnxnanbsnfns00011110101" colorscheme="npnxabnsnfns00011110101" string_table="npnxabnsnfns00011110101" />
-    <layout name="pxabnsnfns00011110101" font="Lato" controllayout="pxabnsnfns00011110101" colorscheme="npnxabnsnfns00011110101" string_table="npnxabnsnfns00011110101" />
-    <layout name="npxnabnsnfns00011110101" font="Lato" controllayout="npxnabnsnfns00011110101" colorscheme="npnxabnsnfns00011110101" string_table="npnxabnsnfns00011110101" />
-    <layout name="npnxnanbnsnfns00011110101" font="Lato" controllayout="npnxnanbnsnfns00011110101" colorscheme="npnxabnsnfns00011110101" string_table="npnxabnsnfns00011110101" />
-    <layout name="pxabnsnfns00011110100" font="Lato" controllayout="pxabnsnfns00011110100" colorscheme="npnxabnsnfns00011110101" string_table="npnxabnsnfns00011110101" />
-    <layout name="npnxabnsnfns00011110101" font="Lato" controllayout="npnxabnsnfns00011110101" colorscheme="npnxabnsnfns00011110101" string_table="npnxabnsnfns00011110101" />
+    <layout name="npnxnanbsnfns00011110111" font="Lato" controllayout="npnxnanbsnfns00011110111" colorscheme="npnxabnsnfns00011110111" string_table="npnxabnsnfns00011110111" />
+    <layout name="pxabnsnfns00011110111" font="Lato" controllayout="pxabnsnfns00011110111" colorscheme="npnxabnsnfns00011110111" string_table="npnxabnsnfns00011110111" />
+    <layout name="npxnabnsnfns00011110111" font="Lato" controllayout="npxnabnsnfns00011110111" colorscheme="npnxabnsnfns00011110111" string_table="npnxabnsnfns00011110111" />
+    <layout name="npnxnanbnsnfns00011110111" font="Lato" controllayout="npnxnanbnsnfns00011110111" colorscheme="npnxabnsnfns00011110111" string_table="npnxabnsnfns00011110111" />
+    <layout name="pxabnsnfns00011110110" font="Lato" controllayout="pxabnsnfns00011110110" colorscheme="npnxabnsnfns00011110111" string_table="npnxabnsnfns00011110111" />
+    <layout name="npnxabnsnfns00011110111" font="Lato" controllayout="npnxabnsnfns00011110111" colorscheme="npnxabnsnfns00011110111" string_table="npnxabnsnfns00011110111" />
   </layouts>
   <control_options>
     <optiongroups>
@@ -14,7 +14,7 @@
         <options>
           <option name="title_enabled" value="true">
             <options>
-              <option name="title_text" value="Spot, Create, Share: A Practical Guide To Transform Employee-Generated Content " />
+              <option name="title_text" value="Spot, Create, Share" />
             </options>
           </option>
           <option name="logo_enabled" value="false">
@@ -69,7 +69,7 @@
           </option>
           <option name="pauseplay" value="true" />
           <option name="replay" value="false" />
-          <option name="search" value="false" />
+          <option name="search" value="true" />
           <option name="closed_captions" value="true" />
           <option name="settings" value="true" />
           <option name="playbackSpeedControl" value="true" />
@@ -101,7 +101,7 @@
     </optiongroups>
   </control_options>
   <control_layouts>
-    <control_layout name="npnxnanbsnfns00011110101">
+    <control_layout name="npnxnanbsnfns00011110111">
       <control name="volume" enabled="true" />
       <control name="seekbar" enabled="false" />
       <control name="replay" enabled="false" />
@@ -121,12 +121,12 @@
       <control name="transcript" enabled="false" />
       <control name="outline" enabled="true">
         <controls>
-          <control name="search" enabled="false" />
+          <control name="search" enabled="true" />
         </controls>
       </control>
       <control name="close_btn" enabled="true" />
     </control_layout>
-    <control_layout name="pxabnsnfns00011110101">
+    <control_layout name="pxabnsnfns00011110111">
       <control name="volume" enabled="true" />
       <control name="seekbar" enabled="false" />
       <control name="replay" enabled="false" />
@@ -146,12 +146,12 @@
       <control name="transcript" enabled="false" />
       <control name="outline" enabled="true">
         <controls>
-          <control name="search" enabled="false" />
+          <control name="search" enabled="true" />
         </controls>
       </control>
       <control name="close_btn" enabled="true" />
     </control_layout>
-    <control_layout name="npxnabnsnfns00011110101">
+    <control_layout name="npxnabnsnfns00011110111">
       <control name="volume" enabled="true" />
       <control name="seekbar" enabled="false" />
       <control name="replay" enabled="false" />
@@ -171,12 +171,12 @@
       <control name="transcript" enabled="false" />
       <control name="outline" enabled="true">
         <controls>
-          <control name="search" enabled="false" />
+          <control name="search" enabled="true" />
         </controls>
       </control>
       <control name="close_btn" enabled="true" />
     </control_layout>
-    <control_layout name="npnxnanbnsnfns00011110101">
+    <control_layout name="npnxnanbnsnfns00011110111">
       <control name="volume" enabled="true" />
       <control name="seekbar" enabled="false" />
       <control name="replay" enabled="false" />
@@ -196,12 +196,12 @@
       <control name="transcript" enabled="false" />
       <control name="outline" enabled="true">
         <controls>
-          <control name="search" enabled="false" />
+          <control name="search" enabled="true" />
         </controls>
       </control>
       <control name="close_btn" enabled="true" />
     </control_layout>
-    <control_layout name="pxabnsnfns00011110100">
+    <control_layout name="pxabnsnfns00011110110">
       <control name="volume" enabled="true" />
       <control name="seekbar" enabled="false" />
       <control name="replay" enabled="false" />
@@ -221,12 +221,12 @@
       <control name="transcript" enabled="false" />
       <control name="outline" enabled="true">
         <controls>
-          <control name="search" enabled="false" />
+          <control name="search" enabled="true" />
         </controls>
       </control>
       <control name="close_btn" enabled="false" />
     </control_layout>
-    <control_layout name="npnxabnsnfns00011110101">
+    <control_layout name="npnxabnsnfns00011110111">
       <control name="volume" enabled="true" />
       <control name="seekbar" enabled="false" />
       <control name="replay" enabled="false" />
@@ -246,14 +246,14 @@
       <control name="transcript" enabled="false" />
       <control name="outline" enabled="true">
         <controls>
-          <control name="search" enabled="false" />
+          <control name="search" enabled="true" />
         </controls>
       </control>
       <control name="close_btn" enabled="true" />
     </control_layout>
   </control_layouts>
   <colorschemes>
-    <colorscheme name="npnxabnsnfns00011110101">
+    <colorscheme name="npnxabnsnfns00011110111">
       <color_group name="accessibility">
         <group_colors>
           <color name="focus_rect">
@@ -277,7 +277,7 @@
           <color name="htmlpage_bg_color">
             <fill type="linear" rotation="90">
               <colors>
-                <color rgb="0x282828" alpha="100" stop="0" />
+                <color rgb="0x254061" alpha="100" stop="0" />
               </colors>
             </fill>
           </color>
@@ -447,7 +447,7 @@
           <color name="bg">
             <fill type="linear" rotation="90">
               <colors>
-                <color rgb="0x212121" alpha="100" stop="0" />
+                <color rgb="0x1A2332" alpha="100" stop="0" />
               </colors>
             </fill>
           </color>
@@ -475,7 +475,7 @@
           <color name="border">
             <fill type="linear" rotation="90">
               <colors>
-                <color rgb="0x454545" alpha="100" stop="0" />
+                <color rgb="0x324461" alpha="100" stop="0" />
               </colors>
             </fill>
           </color>
@@ -799,7 +799,7 @@
           <color name="panel_bg">
             <fill type="linear" rotation="90">
               <colors>
-                <color rgb="0x212121" alpha="100" stop="0" />
+                <color rgb="0x1A2332" alpha="100" stop="0" />
               </colors>
             </fill>
           </color>
@@ -1032,7 +1032,7 @@
           <color name="bg">
             <fill type="linear" rotation="90">
               <colors>
-                <color rgb="0x212121" alpha="100" stop="0" />
+                <color rgb="0x1A2332" alpha="100" stop="0" />
               </colors>
             </fill>
           </color>
@@ -1054,7 +1054,7 @@
           <color name="border">
             <fill type="linear" rotation="90">
               <colors>
-                <color rgb="0x454545" alpha="100" stop="0" />
+                <color rgb="0x324461" alpha="100" stop="0" />
               </colors>
             </fill>
           </color>
@@ -1196,7 +1196,7 @@
           <color name="brandhighlight">
             <fill type="linear" rotation="90">
               <colors>
-                <color rgb="0x4F81BD" alpha="100" stop="0" />
+                <color rgb="0xE57A44" alpha="100" stop="0" />
               </colors>
             </fill>
           </color>
@@ -1231,7 +1231,7 @@
           <color name="diva">
             <fill type="linear" rotation="90">
               <colors>
-                <color rgb="0x454545" alpha="100" stop="0" />
+                <color rgb="0x324461" alpha="100" stop="0" />
               </colors>
             </fill>
           </color>
@@ -1245,28 +1245,28 @@
           <color name="menu_shade">
             <fill type="linear" rotation="90">
               <colors>
-                <color rgb="0x212121" alpha="100" stop="0" />
+                <color rgb="0x1A2332" alpha="100" stop="0" />
               </colors>
             </fill>
           </color>
           <color name="border">
             <fill type="linear" rotation="90">
               <colors>
-                <color rgb="0x282828" alpha="100" stop="0" />
+                <color rgb="0x1E293B" alpha="100" stop="0" />
               </colors>
             </fill>
           </color>
           <color name="bg">
             <fill type="linear" rotation="90">
               <colors>
-                <color rgb="0x282828" alpha="100" stop="0" />
+                <color rgb="0x1E293B" alpha="100" stop="0" />
               </colors>
             </fill>
           </color>
           <color name="slide_bg">
             <fill type="linear" rotation="90">
               <colors>
-                <color rgb="0x282828" alpha="100" stop="0" />
+                <color rgb="0x1E293B" alpha="100" stop="0" />
               </colors>
             </fill>
           </color>
@@ -1312,7 +1312,7 @@
           <color name="panel_bg">
             <fill type="linear" rotation="90">
               <colors>
-                <color rgb="0x212121" alpha="100" stop="0" />
+                <color rgb="0x1A2332" alpha="100" stop="0" />
               </colors>
             </fill>
           </color>
@@ -1340,7 +1340,7 @@
           <color name="toggle_track_on">
             <fill type="linear" rotation="90">
               <colors>
-                <color rgb="0x4F81BD" alpha="100" stop="0" />
+                <color rgb="0xE57A44" alpha="100" stop="0" />
               </colors>
             </fill>
           </color>
@@ -1361,7 +1361,7 @@
           <color name="settings_border_color">
             <fill type="linear" rotation="90">
               <colors>
-                <color rgb="0x454545" alpha="100" stop="0" />
+                <color rgb="0x324461" alpha="100" stop="0" />
               </colors>
             </fill>
           </color>
@@ -1372,7 +1372,7 @@
           <color name="panel_bg">
             <fill type="linear" rotation="90">
               <colors>
-                <color rgb="0x212121" alpha="100" stop="0" />
+                <color rgb="0x1A2332" alpha="100" stop="0" />
               </colors>
             </fill>
           </color>
@@ -1421,7 +1421,7 @@
           <color name="volume_border_color">
             <fill type="linear" rotation="90">
               <colors>
-                <color rgb="0x454545" alpha="100" stop="0" />
+                <color rgb="0x324461" alpha="100" stop="0" />
               </colors>
             </fill>
           </color>
@@ -1430,7 +1430,7 @@
     </colorscheme>
   </colorschemes>
   <string_tables>
-    <string_table name="npnxabnsnfns00011110101">
+    <string_table name="npnxabnsnfns00011110111">
       <string id="acc_cc_hide">Hide captions (Ctrl+Alt+C)</string>
       <string id="acc_cc_show">Show captions (Ctrl+Alt+C)</string>
       <string id="acc_correct_choice">%answer% (correct choice)</string>
@@ -1633,11 +1633,27 @@
         <slidelink slideid="_player.6afvztrNjkc.61D51xnOHYb" displaytext="Reflection &amp;amp; Resource" expand="false" type="slide" translationId="67DMdIgDbTb" />
       </links>
     </outline>
+    <search>
+      <slidetext slideid="6afvztrNjkc.6EgZjUkyqd8" slidebank="false" type="slide">     this micro course enables employees to turn everyday work moments into powerful brand assets. learn how to spot story-worthy moments, choose the right media format, and share context-rich content for communication teams to package and publish. a practical guide to transform employee-generated content  spot, create, share               </slidetext>
+      <slidetext slideid="6afvztrNjkc.6HrLIyTeNoV" slidebank="false" type="slide">   ‘...but fine-tuning your visual skills ensures your best ideas get noticed.’  ‘you don’t need to (be)come a content creator...’                         </slidetext>
+      <slidetext slideid="6afvztrNjkc.5aYcwH7mbcx" slidebank="false" type="slide">   hi, i am sorita i’ll be your companion throughout this course press the audio button below for a tour of our interactive buttons                         sorita’s introduction sorita introduces herself as your course companion.  sorita’s introduction sorita introduces herself as your course companion.  sorita’s introduction sorita introduces herself as your course companion.  sorita’s introduction sorita introduces herself as your course companion.  sorita’s introduction sorita introduces herself as your course companion.  audio guide sorita gives a quick run-through of the buttons in the course. </slidetext>
+      <slidetext slideid="6afvztrNjkc.5nWRxL9paTc" slidebank="false" type="slide"> a quick, unscripted video taken by an employee showing a real day behind the scenes. a polished, studio-produced advertisement featuring a paid actor or presenter. a high-quality photo capturing a real team milestone or event. great job! this is how others responded:  53%  10%  37%            a high-quality photo capturing a real team milestone or event.  a high-quality photo capturing a real team milestone or event.  a high-quality photo capturing a real team milestone or event.  a high-quality photo capturing a real team milestone or event.  a high-quality photo capturing a real team milestone or event.  a high-quality photo capturing a real team milestone or event.  a quick, unscripted video taken by an employee showing a real day behind the scenes.  a quick, unscripted video taken by an employee showing a real day behind the scenes.  a quick, unscripted video taken by an employee showing a real day behind the scenes.  a quick, unscripted video taken by an employee showing a real day behind the scenes.  a quick, unscripted video taken by an employee showing a real day behind the scenes.  a quick, unscripted video taken by an employee showing a real day behind the scenes.      when you’re scrolling on your own feed, which type of workplace content are you most likely to stop and watch?                          a polished, studio-produced advertisement featuring a paid actor or presenter. a polished, studio-produced advertisement featuring a paid actor or presenter. a polished, studio-produced advertisement featuring a paid actor or presenter. a polished, studio-produced advertisement featuring a paid actor or presenter. a polished, studio-produced advertisement featuring a paid actor or presenter. a polished, studio-produced advertisement featuring a paid actor or presenter.  </slidetext>
+      <slidetext slideid="6afvztrNjkc.6oIlUyxi8FL" slidebank="false" type="slide"> modern audiences tend to tune out overly scripted videos. employee-generated content captures the real, transparent workplace moments that build genuine trust. you don't need a film degree or expensive gear—simple adjustments to your phone settings, lighting, and framing are all it takes  to make your work shine.                takeaway: your everyday work perspective is a strategic brand asset. external audiences and candidates are 3x more likely to trust real workplace moments over traditional advertising. more trustable 3x posts shared directly by employees generate up to 8x more engagement than official corporate channels. higher engagement 8x         why your perspective matters                           </slidetext>
+      <slidetext slideid="6afvztrNjkc.65AwMyAPI8H" slidebank="false" type="slide">     group photos of celebrations showcase workplace culture, human connection, and energy that audiences genuinely enjoy. tip: get consent before making and sharing content!   viewers quickly scroll past most content featuring inanimate objects without human interaction. tip: feature colleagues discussing or presenting instead.   candid behind-the-scenes  team interactions showcase a positive work culture which increases audience trust. tip: keep clips short (10–15 secs) for the best engagement! if you've ever paused and wondered, 'is this actually worth sharing?', you're already halfway to spotting a great story. click on each card below to find out if you should share the depicted workplace moment. what makes a moment publishable?            touch click on the thumbnail for more information.  touch click on the thumbnail for more information.  touch click on the thumbnail for more information.                       </slidetext>
+      <slidetext slideid="6afvztrNjkc.6HewVlxxOk0" slidebank="false" type="slide"> ‘people do not buy goods and services. they buy relations, stories, and magic.’  seth godin, 2005                         </slidetext>
+      <slidetext slideid="6afvztrNjkc.67PU6db3MNn" slidebank="false" type="slide"> photo, video, or both?  here are some of the things to consider before choosing a format:  photos are great for static milestones, clear text or graphics, individual spotlights, and awards where no motion is needed.  videos are great for dynamic action, step-by-step physical demos, and moments where speech, sound, or laughter drive the story.  photos &amp; videos are great for documenting multi-faceted events—a  photo captures the room, while a short video brings the energy to life! ready to test your new knowledge?  try the activity on the next slide.                          </slidetext>
+      <slidetext slideid="6afvztrNjkc.6fCNuRMQj2c" slidebank="false" type="slide">      correct positive evaluation for completing freeform drag and drop activity.  great job! matching the right media format to the right moment ensures your content is authentic, engaging, and trustworthy.        continue continue continue continue continue                photo &amp; video      photo   video  product demos  employee profiles   work updates  team-building events  speeches  posing with an award    drag each workplace scenario into the best media format for maximum engagement. photo, video, or both?                         </slidetext>
+      <slidetext slideid="6afvztrNjkc.6is1epgAUXH" slidebank="false" type="slide">   drag the slider handle to see the difference that good light makes. maximize quality with proper light                             </slidetext>
+      <slidetext slideid="6afvztrNjkc.6DMB7hm5QGr" slidebank="false" type="slide"> interested in exploring your creative side further? start with this short photography course about pre-production and finding inspiration before makinglow-budget portraits. beyond the course: learn photography basics                                 open skillshare course open skillshare course open skillshare course open skillshare course open skillshare course </slidetext>
+      <slidetext slideid="6afvztrNjkc.6TtrH8eTCtA" slidebank="false" type="slide"> ‘upload video without text.’ not quite. uploading with zero text means someone has to watch the whole clip or contact you later to figure out what it is. adding a one-sentence note takes seconds and saves everyone time. ‘alex and maria at the design sprint in prague finalizing q3 goals.’this is the correct choice. a good 1-minute hand-off doesn't need to be fancy—just a quick line mentioning the event, what was happening, and who is featured is all it takes! ‘here is the video from today.’ not quite. text without context leaves the team guessing. a quick 1-minute hand-off just needs a few words on what happened and who is in it so it doesn't get lost. what is the best way to submit a 15-second clip you recorded at a workshop?                    ‘upload video without text.’not quite. uploading with zero text means someone has to watch the whole clip or contact you later to figure out what it is. adding a one-sentence note takes seconds and saves everyone time. ‘alex and maria at the design sprint in prague finalizing q3 goals.’great job! this gives just enough information—what was happening and who is featured—taking only a few seconds to write while keeping things completely clear. ‘here is the video from today.’not quite. text without context leaves the team guessing. a quick 1-minute hand-off just needs a few words on what happened and who is in it so it doesn't get lost. what is the best way to submit a 15-second clip you recorded at a workshop?                    ‘alex and maria at the design sprint in prague finalizing q3 goals.’  ‘alex and maria at the design sprint in prague finalizing q3 goals.’  ‘alex and maria at the design sprint in prague finalizing q3 goals.’  ‘alex and maria at the design sprint in prague finalizing q3 goals.’  ‘alex and maria at the design sprint in prague finalizing q3 goals.’  ‘alex and maria at the design sprint in prague finalizing q3 goals.’  ‘upload video without text.’  ‘upload video without text.’  ‘upload video without text.’  ‘upload video without text.’  ‘upload video without text.’  ‘upload video without text.’  ‘here is the video from today.’  ‘here is the video from today.’  ‘here is the video from today.’  ‘here is the video from today.’  ‘here is the video from today.’  ‘here is the video from today.’      what is the best way to submit a 15-second clip you recorded at a workshop?  review the scenario below and select the best caption to send along with your content: the 1-minute handoff rule                             sorita’s introduction sorita introduces herself as your course companion.  sorita’s introduction sorita introduces herself as your course companion.  sorita’s introduction sorita introduces herself as your course companion.  sorita’s introduction sorita introduces herself as your course companion.  sorita’s introduction sorita introduces herself as your course companion.  instruction the 1-minute handoff rule instruction. </slidetext>
+      <slidetext slideid="6afvztrNjkc.68eeyooYcWY" slidebank="false" type="slide">always attach a brief note stating who is featured, what  is happening, and where. 1-minute handoff face the light position your subject facing the main light source to keep faces bright, sharp, and clear. frame the subject keep the main action front and center. eliminate background distractions by getting closer to the subject. clear audio minimize audio noise by standing next to the speaker when recording  speech.  minimize audio noise by standing next to the speaker when recording  speech. clear audio position your subject facing the main light source to keep faces bright, sharp, and clear. face the light keep the main action front and center. eliminate background distractions by getting closer to the subject. frame the subject            keep the main action front and center. eliminate background distractions by getting closer to the subject. frame the subject position your subject facing the main light source to keep faces bright, sharp, and clear. face the light            position your subject facing the main light source to keep faces bright, sharp, and clear. face the light                 use photos for static milestones; use video when movement, voice, or sound tells the story best. the right format the 1-minute handoff rule                              </slidetext>
+      <slidetext slideid="6afvztrNjkc.61D51xnOHYb" slidebank="false" type="slide">listen to  katongole’s reflection  ‘at first, i saw employee-generated content as just an extra task. but this course helped me realize how it could effortlessly boost my team's visibility across the entire company—and ensure that we're represented exactly as we want to be seen.’ katongole’s reflection katongole reflects on his experience with employee-generated content before and after the course.  katongole’s reflection katongole reflects on his experience with employee-generated content before and after the course.  katongole’s reflection katongole reflects on his experience with employee-generated content before and after the course.  katongole’s reflection katongole reflects on his experience with employee-generated content before and after the course.  katongole’s reflection katongole reflects on his experience with employee-generated content before and after the course.  katongole’s reflection katongole reflects on his experience with employee-generated content before and after the course.  katongole’s reflection katongole reflects on his experience with employee-generated content before and after the course.                                            </slidetext>
+    </search>
   </nav_data>
   <resource_data description="&lt;p align='left'&gt;&lt;font face='Lato' style='font-size: 11px;' size='11' color='#BABBBA'&gt;Here are some useful links and documents:&lt;/font&gt;&lt;/p&gt;">
     <resources>
       <resource url="https://skl.sh/46fsIW2" image="story_content/url.png" title="Pre-Production for Portrait Photography: Finding Inspiration Before a Portrait Shoot" translationId="6kvBX9LDi4a" />
-      <resource url="story_content/external_files/ECG 1-Minute Handoff.pdf" image="story_content/6K9KLXZWG9p.png" title="ECG 1-Minute Handoff" translationId="5iSS69C10az" />
+      <resource url="story_content/external_files/ECG 1-Minute Handoff.pdf" image="story_content/5y7QHpRhWUz.png" title="ECG 1-Minute Handoff" translationId="5y5dnnycYMG" />
     </resources>
   </resource_data>
   <transcript_data />
