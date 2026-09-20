@@ -277,7 +277,7 @@
           <color name="htmlpage_bg_color">
             <fill type="linear" rotation="90">
               <colors>
-                <color rgb="0x254061" alpha="100" stop="0" />
+                <color rgb="0x282828" alpha="100" stop="0" />
               </colors>
             </fill>
           </color>
@@ -447,7 +447,7 @@
           <color name="bg">
             <fill type="linear" rotation="90">
               <colors>
-                <color rgb="0x000000" alpha="100" stop="0" />
+                <color rgb="0x212121" alpha="100" stop="0" />
               </colors>
             </fill>
           </color>
@@ -475,7 +475,7 @@
           <color name="border">
             <fill type="linear" rotation="90">
               <colors>
-                <color rgb="0x242424" alpha="100" stop="0" />
+                <color rgb="0x454545" alpha="100" stop="0" />
               </colors>
             </fill>
           </color>
@@ -799,7 +799,7 @@
           <color name="panel_bg">
             <fill type="linear" rotation="90">
               <colors>
-                <color rgb="0x000000" alpha="100" stop="0" />
+                <color rgb="0x212121" alpha="100" stop="0" />
               </colors>
             </fill>
           </color>
@@ -1032,7 +1032,7 @@
           <color name="bg">
             <fill type="linear" rotation="90">
               <colors>
-                <color rgb="0x000000" alpha="100" stop="0" />
+                <color rgb="0x212121" alpha="100" stop="0" />
               </colors>
             </fill>
           </color>
@@ -1054,7 +1054,7 @@
           <color name="border">
             <fill type="linear" rotation="90">
               <colors>
-                <color rgb="0x242424" alpha="100" stop="0" />
+                <color rgb="0x454545" alpha="100" stop="0" />
               </colors>
             </fill>
           </color>
@@ -1231,7 +1231,7 @@
           <color name="diva">
             <fill type="linear" rotation="90">
               <colors>
-                <color rgb="0x242424" alpha="100" stop="0" />
+                <color rgb="0x454545" alpha="100" stop="0" />
               </colors>
             </fill>
           </color>
@@ -1245,28 +1245,28 @@
           <color name="menu_shade">
             <fill type="linear" rotation="90">
               <colors>
-                <color rgb="0x000000" alpha="100" stop="0" />
+                <color rgb="0x212121" alpha="100" stop="0" />
               </colors>
             </fill>
           </color>
           <color name="border">
             <fill type="linear" rotation="90">
               <colors>
-                <color rgb="0x000000" alpha="100" stop="0" />
+                <color rgb="0x282828" alpha="100" stop="0" />
               </colors>
             </fill>
           </color>
           <color name="bg">
             <fill type="linear" rotation="90">
               <colors>
-                <color rgb="0x000000" alpha="100" stop="0" />
+                <color rgb="0x282828" alpha="100" stop="0" />
               </colors>
             </fill>
           </color>
           <color name="slide_bg">
             <fill type="linear" rotation="90">
               <colors>
-                <color rgb="0x000000" alpha="100" stop="0" />
+                <color rgb="0x282828" alpha="100" stop="0" />
               </colors>
             </fill>
           </color>
@@ -1312,7 +1312,7 @@
           <color name="panel_bg">
             <fill type="linear" rotation="90">
               <colors>
-                <color rgb="0x000000" alpha="100" stop="0" />
+                <color rgb="0x212121" alpha="100" stop="0" />
               </colors>
             </fill>
           </color>
@@ -1361,7 +1361,7 @@
           <color name="settings_border_color">
             <fill type="linear" rotation="90">
               <colors>
-                <color rgb="0x242424" alpha="100" stop="0" />
+                <color rgb="0x454545" alpha="100" stop="0" />
               </colors>
             </fill>
           </color>
@@ -1372,7 +1372,7 @@
           <color name="panel_bg">
             <fill type="linear" rotation="90">
               <colors>
-                <color rgb="0x000000" alpha="100" stop="0" />
+                <color rgb="0x212121" alpha="100" stop="0" />
               </colors>
             </fill>
           </color>
@@ -1421,7 +1421,7 @@
           <color name="volume_border_color">
             <fill type="linear" rotation="90">
               <colors>
-                <color rgb="0x242424" alpha="100" stop="0" />
+                <color rgb="0x454545" alpha="100" stop="0" />
               </colors>
             </fill>
           </color>
@@ -1653,7 +1653,7 @@
   <resource_data description="&lt;p align='left'&gt;&lt;font face='Lato' style='font-size: 11px;' size='11' color='#BABBBA'&gt;Here are some useful links and documents:&lt;/font&gt;&lt;/p&gt;">
     <resources>
       <resource url="https://skl.sh/46fsIW2" image="story_content/url.png" title="Pre-Production for Portrait Photography: Finding Inspiration Before a Portrait Shoot" translationId="6kvBX9LDi4a" />
-      <resource url="story_content/external_files/ECG 1-Minute Handoff.pdf" image="story_content/66YV4q1PU1I.png" title="ECG 1-Minute Handoff" translationId="5y5dnnycYMG" />
+      <resource url="story_content/external_files/ECG 1-Minute Handoff.pdf" image="story_content/6DRGR2HE8gD.png" title="ECG 1-Minute Handoff" translationId="5y5dnnycYMG" />
     </resources>
   </resource_data>
   <transcript_data />
