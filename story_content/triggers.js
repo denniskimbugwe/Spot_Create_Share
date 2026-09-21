@@ -2,28 +2,28 @@ function ExecuteScript(strId)
 {
   switch (strId)
   {
-      case "68sEyKfpHT1":
+      case "5lr4OZpJOir":
         Script1();
         break;
-      case "6LAlYuvYwa6":
+      case "6D2SmSyh8GQ":
         Script2();
         break;
-      case "5jGQU3wCinR":
+      case "6D9wHos4kwN":
         Script3();
         break;
-      case "6PlIHSpWf7q":
+      case "619eXBlCa9P":
         Script4();
         break;
-      case "6n3z1xXDH6c":
+      case "6CK7gP6zaBT":
         Script5();
         break;
-      case "65y6bJu0auH":
+      case "6PfAQE6RcnQ":
         Script6();
         break;
-      case "6oQMDW4UDit":
+      case "69vonyz1nEk":
         Script7();
         break;
-      case "5vSUd2QunO3":
+      case "6UZSNz75Mma":
         Script8();
         break;
   }
@@ -126,13 +126,13 @@ window.Script5 = function()
   player.once(() => {
 const target = object('5Xmzg4BwFNt');
 const duration = 750;
-const easing = 'ease-out';
-const id = '5cYR01hHc3b';
-const bounceAmount = 1;
+const easing = 'cubic-bezier(0.25, 1, 0.5, 1)';
+const id = '6o7UmZKjQIT';
+const growAmount = 1.2;
 const delay = 5156;
 addToTimeline(
 target.animate(
-player.emphasis.bounce(bounceAmount)
+player.emphasis.elastic(growAmount)
 ,
   { fill: 'forwards', delay, duration, easing }
 ), id
@@ -148,7 +148,7 @@ const duration = 750;
 const easing = 'cubic-bezier(0.25, 1, 0.5, 1)';
 const id = '6r1PuA4raoN';
 const growAmount = 1.2;
-const delay = 27016;
+const delay = 24781;
 addToTimeline(
 target.animate(
 player.emphasis.elastic(growAmount)
