@@ -2,29 +2,32 @@ function ExecuteScript(strId)
 {
   switch (strId)
   {
-      case "67ZVMEtXHWp":
+      case "6PixsWntsKR":
         Script1();
         break;
-      case "6OIM4ant25o":
+      case "6GDOqFyfwIn":
         Script2();
         break;
-      case "6eUEXDqZd3t":
+      case "6ic6TkJzIOC":
         Script3();
         break;
-      case "6OQAJ9tkaic":
+      case "6iKBho5vCus":
         Script4();
         break;
-      case "6SIN4W9LBtE":
+      case "5g0XxBy8nrY":
         Script5();
         break;
-      case "61cNozRB7Z9":
+      case "6VEpWEtLdoP":
         Script6();
         break;
-      case "5kgeGiAd6WY":
+      case "69ecAggZerH":
         Script7();
         break;
-      case "6rPcvig3IRh":
+      case "6KIyf4wzKRI":
         Script8();
+        break;
+      case "5X9SZhWLbkX":
+        Script9();
         break;
   }
 }
@@ -193,6 +196,25 @@ player.emphasis.elastic(growAmount)
   { fill: 'forwards', duration, easing }
 )
 );
+}
+
+window.Script9 = function()
+{
+  player.once(() => {
+const target = object('6A0rm8SEoVb');
+const duration = 750;
+const easing = 'cubic-bezier(0.25, 1, 0.5, 1)';
+const id = '5fe2qXNYJk2';
+const growAmount = 1.2;
+const delay = 0;
+addToTimeline(
+target.animate(
+player.emphasis.elastic(growAmount)
+,
+  { fill: 'forwards', delay, duration, easing }
+), id
+);
+});
 }
 
 };
